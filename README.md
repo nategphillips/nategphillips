@@ -1,4 +1,6 @@
-## Hi there 👋
+### Hi 👋
+
+I'm Nathan, a Ph.D. student in aerospace engineering at Texas A&M University whose professional interests include laser diagnostics, plasma physics, nonlinear optics, and hypersonics.
 
 <!--
 **nategphillips/nategphillips** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
